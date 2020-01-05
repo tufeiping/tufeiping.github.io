@@ -1,17 +1,15 @@
-## 个人博客说明
+## 涂飞平的博客
 
 ~~~
 涂飞平 (网名: 网络老鼠)
 程序员、架构师
-
-C/Java/Delphi/Python/TypeScript
-
-用友审计
+语言：C/Java/Delphi/Python/TypeScript
+就职：用友审计
 ~~~
 
 个人博客采用 `github` 来编写和发布，您可以在这里看到整个博客的源码 [editor on GitHub](https://github.com/tufeiping/tufeiping.github.io/edit/master/README.md)。
 
-关于博客历史的一些记录：
+关于个人博客的一些历史记录：
 
 - 
 - 

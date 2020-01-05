@@ -1,8 +1,24 @@
-## 网络老鼠个人博客
+## 个人博客说明
 
-You can use the [editor on GitHub](https://github.com/tufeiping/tufeiping.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+~~~
+涂飞平 (网名: 网络老鼠)
+程序员、架构师
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+C/Java/Delphi/Python/TypeScript
+
+用友审计
+~~~
+
+个人博客采用 `github` 来编写和发布，您可以在这里看到整个博客的源码 [editor on GitHub](https://github.com/tufeiping/tufeiping.github.io/edit/master/README.md)。
+
+关于博客历史的一些记录：
+
+- 
+- 
+- 
+- 
+- 
+
 
 ### Markdown
 

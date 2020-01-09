@@ -28,7 +28,7 @@
 
 最近在做App二维码下载的功能，需要在后端判断扫描来自PC，Android手机还是苹果手机，所以将常见的浏览器User Agent记录下来。
 
-[详细...](http://www.tufeiping.cn)
+[详细...](http://www.tufeiping.cn/2019/UserAgent)
 
 ### 扩展Delphi IDE
 

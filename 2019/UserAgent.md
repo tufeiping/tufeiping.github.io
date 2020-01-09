@@ -42,7 +42,7 @@ iOS Weixin: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/
 
 之所以把微信的内嵌浏览器User-Agent单列出来，是因为使用微信扫码会中止跳转，需要使用“在浏览器打开”才能完成接下来的动作。
 
-<p style="text-align: center;"><img src="/tufeiping/tufeiping.github.io/blob/master/assets/useragent.png?raw=true" alt="useragent.png"></p>
+<p style="text-align: center;"><img src="http://tufeiping/tufeiping.github.io/blob/master/assets/useragent.png?raw=true" alt="useragent.png"></p>
 
 至于判断本身逻辑就比较简单了，如下：
 ~~~javascript

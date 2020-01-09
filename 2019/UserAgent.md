@@ -42,7 +42,7 @@ iOS Weixin: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/
 
 之所以把微信的内嵌浏览器User-Agent单列出来，是因为使用微信扫码会中止跳转，需要使用“在浏览器打开”才能完成接下来的动作。
 
-<p style="text-align: center;"><img class="" data-backh="697" data-backw="330" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_jpg/o2icoUkA1bweRvFYqnRUKMNOiby9snhAfps8ibdH2rTm8WcbQ3sJZ3xy6P23urPyYx85RkBtnUic8GmrhMn5AEMxjw/0?wx_fmt=jpeg" data-copyright="0" data-ratio="2.111111111111111" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/o2icoUkA1bweRvFYqnRUKMNOiby9snhAfps8ibdH2rTm8WcbQ3sJZ3xy6P23urPyYx85RkBtnUic8GmrhMn5AEMxjw/640?wx_fmt=jpeg" data-type="jpeg" data-w="1080" style="width: 328px !important; height: auto !important; visibility: visible !important;" _width="328px" src="https://mmbiz.qpic.cn/mmbiz_jpg/o2icoUkA1bweRvFYqnRUKMNOiby9snhAfps8ibdH2rTm8WcbQ3sJZ3xy6P23urPyYx85RkBtnUic8GmrhMn5AEMxjw/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" crossorigin="anonymous" data-fail="0"></p>
+<p style="text-align: center;"><img src="/tufeiping/tufeiping.github.io/blob/master/assets/useragent.png?raw=true" alt="useragent.png"></p>
 
 至于判断本身逻辑就比较简单了，如下：
 ~~~javascript

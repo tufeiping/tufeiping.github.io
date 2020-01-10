@@ -46,7 +46,7 @@ Python语言中的Decorator，也就是常说的装饰器，个人认为是Pytho
 
 在使用Git的时候，一般情况下都是使用http/https方式，这个种方式虽然比ssh免密登录多了一个输入用户名/密码的步骤，但由于其不需要将公钥存入git server，所以目前是我们部门的推荐（默认）使用方式。
 
-[详细...](http://www.tufeiping.cn)
+[详细...](http://www.tufeiping.cn/2019/gitauth)
 
 ### TinyHttpd源码分析
 

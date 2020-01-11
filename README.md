@@ -34,7 +34,7 @@
 
 Embarcadero Delphi 提供丰富的API以便Delphi开发人员自定义和扩展自己的Delphi IDE。本文的目的就是通过介绍其中的部分API和示例，并且，还会有部分TMS公司提供的部分免费的IDE扩展的源码，给大家演示如何编写Delphi IDE扩展。
 
-[详细...](http://www.tufeiping.cn/DelphiIDE)
+[详细...](http://www.tufeiping.cn/2019/DelphiIDE)
 
 ### Python的Decorator
 

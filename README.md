@@ -53,7 +53,7 @@ Python语言中的Decorator，也就是常说的装饰器，个人认为是Pytho
 
 TinyHttpd是一个C编写的极小HTTP服务器，代码量（包括注释）不到500行，但可以基本说明HTTP服务器的工作原理，从中也能知道如何进行Linux下的C编程（这是我看这个代码的主要原因）。
 
-[详细...](http://www.tufeiping.cn)
+[详细...](http://www.tufeiping.cn/2018/TinyHttpd)
 
 
 ### 如何在Docker中安装DzzOffice

@@ -5,7 +5,7 @@
 TinyHttpd是一个C编写的极小HTTP服务器，代码量（包括注释）不到500行，但可以基本说明HTTP服务器的工作原理，从中也能知道如何进行Linux下的C编程（这是我看这个代码的主要原因）。
 在Linux下面，我采用Eclipse CPP作为C/C++的IDE，设置好相应的环境变量，以便IDE可以查找链接相应的头文件和库。
 
-<p style="text-align: center;"><img src="http://store.tufeiping.cn/tinyhttpd.png" alt="tinyhttpd.png"></p>
+<p style="text-align: center;"><img src="http://store.tufeiping.cn/tinyhttp.png" alt="tinyhttp.png"></p>
 
 源码分析过程如下:
 

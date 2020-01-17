@@ -2,7 +2,7 @@
 
 > 原创 涂飞平  `2018-10-23`
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/tufeiping/tufeiping.github.io/master/assets/pythodecorator.png" alt="pythodecorator.png"></p>
+<p style="text-align: center;"><img src="http://store.tufeiping.cn/pythodecorator.png" alt="pythodecorator.png"></p>
 
 `Python`语言中的`Decorator`，也就是常说的装饰器，个人认为是`Python`语言中的亮点之一，在语言层面（从语义上）直接支持装饰器的我所知道的也就是`Python`了，虽然`JavaScript`也是支持的，但需要通过技术手段来处理一下（都是将函数赋值给同名的变量以达到相同的效果），而`Python`虽然在原理上是一致的，但其在语言层面直接支持，提供了 `@` 运算符来标识（跟`Java`提供的注解采用一样的标识符，而且作用也类似），更直观，更简洁！
 

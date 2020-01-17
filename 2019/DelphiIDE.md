@@ -2,7 +2,7 @@
 
 > 原创 涂飞平  `2019-04-09`
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/tufeiping/tufeiping.github.io/master/assets/tech.png" alt="tech.png"></p>
+<p style="text-align: center;"><img src="http://store.tufeiping.cn/tech.png" alt="tech.png"></p>
 
 
 ### 简介
@@ -264,7 +264,7 @@ end;
 
 ### 扩展向导接口
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/tufeiping/tufeiping.github.io/master/assets/wizard.png" alt="wizard.png"></p>
+<p style="text-align: center;"><img src="http://store.tufeiping.cn/wizard.png" alt="wizard.png"></p>
 
 我们扩展IDE的第一个深入的例子是创建自定义向导。
 
@@ -460,7 +460,7 @@ if @RegisterFieldAddress <> nil then
 
 运行后，显示如下：
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/tufeiping/tufeiping.github.io/master/assets/dform.png" alt="dform.png"></p>
+<p style="text-align: center;"><img src="http://store.tufeiping.cn/dform.png" alt="dform.png"></p>
 
 详细源码可以参考示例代码中DockForm文件夹内容。
 
@@ -658,7 +658,7 @@ begin
 end;
 ~~~
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/tufeiping/tufeiping.github.io/master/assets/dmenu.png" alt="dmenu.png"></p>
+<p style="text-align: center;"><img src="http://store.tufeiping.cn/dmenu.png" alt="dmenu.png"></p>
 
 详细源码可以参考示例代码中ProjMenu文件夹内容。
 
@@ -836,7 +836,7 @@ end.
 
 3)ZIP & Upload project: 压缩工程代码并上传到指定FTP服务器
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/tufeiping/tufeiping.github.io/master/assets/ddemo.png" alt="ddemo.png"></p>
+<p style="text-align: center;"><img src="http://store.tufeiping.cn/ddemo.png" alt="ddemo.png"></p>
 
 （截图居然只有两个选项 :-(）
 
@@ -844,7 +844,7 @@ end.
 
 这是一个停靠窗口类型的插件。插件包含3个选项页签，显示TMS最新发布的组件，博客订阅信息和推特信息。
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/tufeiping/tufeiping.github.io/master/assets/dtms.png" alt="dtms.png"></p>
+<p style="text-align: center;"><img src="http://store.tufeiping.cn/dtms.png" alt="dtms.png"></p>
 
 ### TMS演示工具
 
@@ -854,7 +854,7 @@ TMS演示工具插件是基于停靠窗口插件功能以及IDE编辑器的接�
 
 第二个选项卡是已保存代码段的列表。在演示文稿时，可以使用这些代码片段。
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/tufeiping/tufeiping.github.io/master/assets/dplugin.png" alt="dplugin.png"></p>
+<p style="text-align: center;"><img src="http://store.tufeiping.cn/dplugin.png" alt="dplugin.png"></p>
 
 ### 关于作者
 
@@ -884,6 +884,6 @@ Embarcadero成立于1993年，总部位于旧金山,在世界各地设有办事�
 
 Copyright©2011 TMS software
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/tufeiping/tufeiping.github.io/master/assets/ddyonyou.png" alt="dyonyou.png"></p>
+<p style="text-align: center;"><img src="http://store.tufeiping.cn/ddyonyou.png" alt="dyonyou.png"></p>
 
 > 涂飞平 2019-04-06 于北京用友产业园

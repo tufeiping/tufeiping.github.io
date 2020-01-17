@@ -2,7 +2,7 @@
 
 > 原创 涂飞平  `2018-10-16`
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/tufeiping/tufeiping.github.io/master/assets/git.png" alt="git.png"></p>
+<p style="text-align: center;"><img src="http://store.tufeiping.cn/git.png" alt="git.png"></p>
 
 在使用Git的时候，一般情况下都是使用http/https方式，这个种方式虽然比ssh免密登录多了一个输入用户名/密码的步骤，但由于其不需要将公钥存入git server，所以目前是我们部门的推荐（默认）使用方式。
 在http/https模式下，每次进行pull，push（与服务器同步）操作，都需要输入用户名及密码，比较繁琐，这里总结了3种方式来避免http/https模式下每次输入账户信息的问题。

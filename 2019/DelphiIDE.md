@@ -884,6 +884,6 @@ Embarcadero成立于1993年，总部位于旧金山,在世界各地设有办事�
 
 Copyright©2011 TMS software
 
-<p style="text-align: center;"><img src="http://store.tufeiping.cn/ddyonyou.png" alt="dyonyou.png"></p>
+<p style="text-align: center;"><img src="http://store.tufeiping.cn/dyonyou.png" alt="dyonyou.png"></p>
 
 > 涂飞平 2019-04-06 于北京用友产业园

@@ -61,4 +61,4 @@ TinyHttpd是一个C编写的极小HTTP服务器，代码量（包括注释）不
 
 先在官网 http://www.dzzoffice.com/ 上面了解了一下DzzOffice依赖的环境和背景，它运行在典型的LAMP/WAMP平台上。是否可以在公司内部服务器Docker群中加入一个Docker容器来专门运行DzzOffice？经过实际测试，很轻松就完成这个设想，很完美。为了便于大家在Docker上面体验DzzOffice，我将Docker工程提交Github上面，接下来就根据Github上面的工程来一步一步安装DzzOffice。
 
-[详细...](http://www.tufeiping.cn)
+[详细...](http://www.tufeiping.cn/2014/dockerdizz)

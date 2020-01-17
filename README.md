@@ -17,7 +17,7 @@
 - 2015年 独立部署
 - 2020年 转移到 `github` 平台（所有的内容均同步来自公众号 `网络老鼠技术小屋`，以前历史的博客不再发布了） 
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/tufeiping/tufeiping.github.io/master/assets/Header.jpg" alt="Header.jpg"></p>
+<p style="position: relative;float: right;top: -202px;"><img src="https://raw.githubusercontent.com/tufeiping/tufeiping.github.io/master/assets/Header.jpg" alt="Header.jpg"></p>
 
 ### 常见浏览器User Agent及应用
 

@@ -19,6 +19,8 @@
 
 <p style="position: relative;float: right;top: -202px;"><img src="http://store.tufeiping.cn/Header.jpg" alt="Header.jpg"></p>
 
+推荐一个有理想及激情的好友做的搜索系统 <a href="https://kalasearch.cn/" target="_blank"> 卡拉搜索 🔍 </a>
+
 ### 常见浏览器User Agent及应用
 
 最近在做App二维码下载的功能，需要在后端判断扫描来自PC，Android手机还是苹果手机，所以将常见的浏览器User Agent记录下来。

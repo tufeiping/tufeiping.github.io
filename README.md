@@ -84,7 +84,3 @@ TinyHttpd是一个C编写的极小HTTP服务器，代码量（包括注释）不
 
 [详细...](http://www.tufeiping.cn/2014/dockerdizz)
 
-
-### 友情链接
-
-<a href="https://kalasearch.cn/" target="_blank">卡拉搜索 🔍 </a>

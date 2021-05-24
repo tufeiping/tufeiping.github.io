@@ -6,6 +6,7 @@
 角色：程序员、架构师、技术总监
 语言：C/Java/Delphi/Python/TypeScript
 就职：用友审计
+邮箱：dHVmZWlwaW5nQGhvdG1haWwuY29t
 ~~~
 
 个人博客采用 `github` 来编写和发布，都是原创内容，记录技术，感想，生活等相关内容，所有见解均来自个人！您可以在这里看到整个博客的源码 [editor on GitHub](https://github.com/tufeiping/tufeiping.github.io/edit/master/README.md)。

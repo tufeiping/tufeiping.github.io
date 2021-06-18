@@ -11,6 +11,8 @@
 
 个人博客采用 `github` 来编写和发布，都是原创内容，记录技术，感想，生活等相关内容，所有见解均来自个人！您可以在这里看到整个博客的源码 [editor on GitHub](https://github.com/tufeiping/tufeiping.github.io/edit/master/README.md)。
 
+文档内容搜索移步 <a href="https://sourcegraph.com/github.com/tufeiping/tufeiping.github.io" target="_blank">这里<a> 🔍 
+
 关于个人博客的一些历史记录：
 
 - 2003年 博客中国开启博客
@@ -19,6 +21,8 @@
 - 2020年 转移到 `github` 平台（所有的内容均同步来自公众号 `网络老鼠技术小屋`，以前历史的博客不再发布了） 
 
 <p style="position: relative;float: right;top: -202px;"><img src="http://store.tufeiping.cn/Header.jpg" alt="Header.jpg"></p>
+<br/>
+
 
 ### 常见浏览器User Agent及应用
 

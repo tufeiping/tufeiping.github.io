@@ -200,3 +200,5 @@ NOTES:
  kubectl port-forward $POD_NAME 8080:80
 
 ~~~
+
+> 发现整个 `2020` 年都没有更新BLOG，拿一篇日记凑数吧😝

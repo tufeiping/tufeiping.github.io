@@ -25,7 +25,7 @@
 
 ### 内部Helm系统部署
 
-最近在做App二维码下载的功能，需要在后端判断扫描来自PC，Android手机还是苹果手机，所以将常见的浏览器User Agent记录下来。
+在内部安装了一个Helm系统，并接入到Rancher中，后续可以通过helm来管理产品的部署。本文记录了Helm部署的步骤及过程，以便后续运维使用。整个Helm体系分为两个部分，Helm Client和Helm Server (Tiller)。。
 
 [详细...](http://www.tufeiping.cn/2021/Helm)
 

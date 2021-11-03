@@ -3,7 +3,7 @@
 ~~~
 网名: 网络老鼠
 公众号: 网络老鼠技术小屋
-角色：程序员、架构师、技术总监
+角色：程序员、架构师、技术总监、总工程师
 语言：C/Java/Delphi/Python/TypeScript
 就职：用友审计
 邮箱：dHVmZWlwaW5nQGhvdG1haWwuY29t

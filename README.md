@@ -1,9 +1,9 @@
-## 涂飞平的博客
+## 网络老鼠的博客
 
 ```
 网名: 网络老鼠
 公众号: 网络老鼠技术小屋
-角色：程序员、架构师、技术总监
+角色：程序员、架构师、技术总监、总工程师
 语言：C/Java/Delphi/Python/TypeScript
 就职：用友审计
 邮箱：dHVmZWlwaW5nQGhvdG1haWwuY29t
@@ -28,8 +28,14 @@
 </p>
 <br/>
 
-### 常见浏览器 User Agent 及应用
+### 内部Helm系统部署
 
+在内部安装了一个Helm系统，并接入到Rancher中，后续可以通过helm来管理产品的部署。本文记录了Helm部署的步骤及过程，以便后续运维使用。整个Helm体系分为两个部分，Helm Client和Helm Server (Tiller)。。
+
+[详细...](http://www.tufeiping.cn/2021/Helm)
+
+
+### 常见浏览器 User Agent 及应用
 最近在做 App 二维码下载的功能，需要在后端判断扫描来自 PC，Android 手机还是苹果手机，所以将常见的浏览器 User Agent 记录下来。
 
 [详细...](http://www.tufeiping.cn/2019/UserAgent)

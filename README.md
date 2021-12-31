@@ -20,7 +20,7 @@
 - 2015 年 独立部署
 - 2020 年 转移到 `github` 平台（所有的内容均同步来自公众号 `网络老鼠技术小屋`，以前历史的博客不再发布了）
 
-<p style="position: relative;float: right;top: -202px;">
+<p style="position: relative;float: right;top: -202px;background-color: #cdcdcd;border-radius: 10px;">
 <!--
 <img src="http://store.tufeiping.cn/Header.jpg" alt="Header.jpg">
 -->
